@@ -1,0 +1,13 @@
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\bin\Debug\NumberGuessingGameApp.exe.config
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\bin\Debug\NumberGuessingGameApp.exe
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\bin\Debug\NumberGuessingGameApp.pdb
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\bin\Debug\aa-ER\NumberGuessingGameApp.resources.dll
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.csproj.AssemblyReference.cache
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.Form1.resources
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.Properties.Resources.resources
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.Form1.aa-ER.resources
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.csproj.GenerateResource.cache
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.csproj.CoreCompileInputs.cache
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\obj\Debug\aa-ER\NumberGuessingGameApp.resources.dll
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.exe
+C:\Users\sbuzz\OneDrive\Desktop\Projects\NumberGuessingGameApp\obj\Debug\NumberGuessingGameApp.pdb
